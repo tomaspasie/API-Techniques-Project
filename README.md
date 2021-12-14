@@ -1,3 +1,5 @@
+###### Made by Tomas Pasiecznik
+
 # API Techniques Project
 
 ### Goal: Implement action filters to validate your POST, PUT, and PATCH requests, so that invalid models throw exceptions that can be handled by your global error handler. Then implement paging records, filtering section enrollments by role, and searching for course titles, usernames, emails, on management services that use those fields. Finally, add sorting functionality to any of the exposed fields contained in a service.
